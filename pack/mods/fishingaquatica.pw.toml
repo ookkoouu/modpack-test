@@ -1,0 +1,13 @@
+name = "Fishing Aquatica"
+filename = "FishingRework-1.20.1-0.2.8.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/9FhR3Q6F/versions/VLHO7zJn/FishingRework-1.20.1-0.2.8.jar"
+hash-format = "sha1"
+hash = "1cd84b3dcc7351e408ac5b6822e593625f734eda"
+
+[update]
+[update.modrinth]
+mod-id = "9FhR3Q6F"
+version = "VLHO7zJn"

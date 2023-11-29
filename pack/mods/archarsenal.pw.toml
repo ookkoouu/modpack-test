@@ -1,0 +1,13 @@
+name = "Archers' Arsenal"
+filename = "archers_arsenal-1.0.3v201.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "acc45efa739fff66fed48ad5d74dbcdf7e3d1793"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4720508
+project-id = 547302

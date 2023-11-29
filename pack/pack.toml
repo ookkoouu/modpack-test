@@ -1,0 +1,16 @@
+name = "MyTest"
+author = "okou"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "f96a9c8318049d68ebcda85fa9f1e0c27e34e895a50411696847837312fb8c9d"
+
+[versions]
+fabric = "0.14.24"
+minecraft = "1.20.1"
+
+[options]
+acceptable-game-versions = ["1.20", "1.20.1"]

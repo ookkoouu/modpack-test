@@ -1,0 +1,13 @@
+name = "Resource Compression"
+filename = "resource-compression-0.8.5.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/PIrQTb72/versions/LmkGkvOi/resource-compression-0.8.5.jar"
+hash-format = "sha1"
+hash = "17d8066ad27b56c3d667d1efa9ba1063254e4276"
+
+[update]
+[update.modrinth]
+mod-id = "PIrQTb72"
+version = "LmkGkvOi"
