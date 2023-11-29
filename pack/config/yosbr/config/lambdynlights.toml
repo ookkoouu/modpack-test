@@ -1,8 +1,10 @@
-mode = "fastest"
+mode = "fancy"
+
 [light_sources]
 	water_sensitive_check = false
 	block_entities = false
-	entities = false
+	entities = true
 	self = true
 	tnt = "simple"
 	creeper = "simple"
+

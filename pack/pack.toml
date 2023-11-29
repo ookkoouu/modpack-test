@@ -1,16 +1,13 @@
-name = "MyTest"
-author = "okou"
-version = "1.0.0"
+name = "Additive"
+author = "UltraStorm"
+version = "1.21.1+1.20.1.fabric"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "d516b4659e09633873faf904afaf4981d7e1286318bb590bccd3568de7d5c2a7"
+hash = "edcbfafdb709159f96c2ae142720dd2f77d00f3fbc7d4b7fda6ddf99273681ff"
 
 [versions]
 fabric = "0.14.24"
 minecraft = "1.20.1"
-
-[options]
-acceptable-game-versions = ["1.20", "1.20.1"]
